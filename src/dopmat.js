@@ -22,3 +22,5 @@ const quiz = [
     ]
   }
 ];
+
+//https://coursehunters.net/course/reactjs-s-nulya-do-profi  from webformyself
